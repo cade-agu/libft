@@ -1,2 +1,2 @@
-# libft
+libft
 crear la primera libreria
